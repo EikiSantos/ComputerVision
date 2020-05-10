@@ -3,7 +3,7 @@
 1. meeting_0: PETS-CVG research.
 2. meeting_1: Exporatory research.
 
-Repository with documents used in reseach about crowd counting, machine learning and computer vision.
+Repository with documents used in research about crowd counting, machine learning and computer vision.
 
 # Contagem de pessoas em multidões, Machine Learn e Visão Computacional <font color="red"> (PT-BR) </font>
 
